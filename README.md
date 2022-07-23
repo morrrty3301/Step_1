@@ -1,4 +1,4 @@
-# Step_1
+# Prototype_1
 def is_prime(n):   
   d = 2          
   while d * d <= n:
